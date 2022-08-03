@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wxhnewStar
 - 👀 I’m interested in sleeping
-- 🌱 I’m currently learning cpp server programming
+- 🌱 I’m currently learning cpp
 - 📫 How to reach me wxh_newStar@foxmail.com
 
 <!---
